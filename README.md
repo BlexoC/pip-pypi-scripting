@@ -46,7 +46,7 @@ Optionally, create a virtual environment:
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # macOS/Linux
+source venv/bin/activate 
 venv\Scripts\activate   # Windows
 ```
 
